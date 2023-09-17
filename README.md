@@ -32,7 +32,7 @@ O sistema agiu como o esperado, não sendo necessário nenhuma operação adicio
 ## Procedimento de Teste Automatizado
 
 1. Opcional - Verificar se as iniciativas estão listadas na tela (frontend).
-2. Alterar os dados do dicionário "criar_iniciativa", no arquivo [test.py](code/code.py), para os valores desejados para o teste.
+2. Alterar os dados do dicionário "criar_iniciativa", no arquivo [test.py](code/test.py), para os valores desejados para o teste.
 Ex.:
     - "name": "Criação de Website de Vendas",
     - "status": "PENDING",
@@ -54,7 +54,10 @@ O sistema agiu como o esperado, não sendo necessário nenhuma operação adicio
 # Imagens
 
 ![Tela de criação de iniciativas](./media/criariniciativa.png "Tela de criação de iniciativas")
+Tela de criação de iniciativas
 
 ![Iniciativa criada](./media/criada.png "Iniciativa criada")
+Iniciativa criada
 
 ![Teste automatizado finalizado com sucesso](./media/automatizado.png "Teste automatizado finalizado com sucesso")
+Teste automatizado finalizado com sucesso
