@@ -1,7 +1,7 @@
 # Testes Automatizados
 
 ## Objetivo
-Verificar se um usuário pode criar uma nova iniciativa na aplicação.
+O objetivo é verificar se um usuário pode criar uma nova iniciativa na aplicação. O projeto base pode ser encontrado [neste repositório](https://github.com/2023M5T06-Inteli/Grupo-01), e ele que será utilizado para fazer os testes.
 
 ## Pré-condição
 As iniciativas devem estar listadas e visíveis na tela respectiva.
